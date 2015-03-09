@@ -1,2 +1,1 @@
-# beta
-README!
+Mean Girls README
